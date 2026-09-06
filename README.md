@@ -8,3 +8,4 @@
 별도의 GitHub Actions variable이나 secret 설정은 필요하지 않습니다.
 
 test test
+test  test
